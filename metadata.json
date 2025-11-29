@@ -1,0 +1,9 @@
+{
+  "name": "Guardian Coders SOS",
+  "description": "A web-based prototype of the Guardian Coders SOS & Geo-Fencing mobile app. Features one-touch SOS, geo-fencing alerts, and an AI-powered safety assistant.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera",
+    "microphone"
+  ]
+}
